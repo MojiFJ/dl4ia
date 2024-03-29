@@ -1,6 +1,10 @@
 cancer-classification-challenge-2023/
 cancer-classification-challenge-2023/*
 A1/playground.ipynb
+A2/MNIST*
+A2/MNIST/*
+
+######################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
