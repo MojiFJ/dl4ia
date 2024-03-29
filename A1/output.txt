@@ -1,0 +1,88 @@
+lr = 1.000000 | Cost after iteration 0: 610.473827
+lr = 1.000000 | Cost after iteration 200: 578.413457
+lr = 1.000000 | Cost after iteration 400: 574.269793
+lr = 1.000000 | Cost after iteration 600: 573.734243
+lr = 1.000000 | Cost after iteration 800: 573.665025
+lr = 1.000000 | Cost after iteration 1000: 573.656093
+lr = 1.000000 | Cost after iteration 0: 610.473827
+lr = 1.000000 | Cost after iteration 200: inf
+lr = 1.000000 | Cost after iteration 400: nan
+lr = 1.000000 | Cost after iteration 600: nan
+lr = 1.000000 | Cost after iteration 800: nan
+lr = 1.000000 | Cost after iteration 1000: nan
+lr = 0.100000 | Cost after iteration 0: 610.473827
+lr = 0.100000 | Cost after iteration 200: 23.943663
+lr = 0.100000 | Cost after iteration 400: 23.943663
+lr = 0.100000 | Cost after iteration 600: 23.943663
+lr = 0.100000 | Cost after iteration 800: 23.943663
+lr = 0.100000 | Cost after iteration 1000: 23.943663
+lr = 0.100000 | Cost after iteration 0: 610.473827
+lr = 0.100000 | Cost after iteration 200: 10.880921
+lr = 0.100000 | Cost after iteration 400: 10.849336
+lr = 0.100000 | Cost after iteration 600: 10.847602
+lr = 0.100000 | Cost after iteration 800: 10.847489
+lr = 0.100000 | Cost after iteration 1000: 10.847481
+lr = 0.010000 | Cost after iteration 0: 610.473827
+lr = 0.010000 | Cost after iteration 200: 24.125337
+lr = 0.010000 | Cost after iteration 400: 23.943719
+lr = 0.010000 | Cost after iteration 600: 23.943663
+lr = 0.010000 | Cost after iteration 800: 23.943663
+lr = 0.010000 | Cost after iteration 1000: 23.943663
+lr = 0.010000 | Cost after iteration 0: 610.473827
+lr = 0.010000 | Cost after iteration 200: 12.017779
+lr = 0.010000 | Cost after iteration 400: 11.451304
+lr = 0.010000 | Cost after iteration 600: 11.237669
+lr = 0.010000 | Cost after iteration 800: 11.108993
+lr = 0.010000 | Cost after iteration 1000: 11.027513
+lr = 0.001000 | Cost after iteration 0: 610.473827
+lr = 0.001000 | Cost after iteration 200: 287.311459
+lr = 0.001000 | Cost after iteration 400: 142.202906
+lr = 0.001000 | Cost after iteration 600: 77.045265
+lr = 0.001000 | Cost after iteration 800: 47.787726
+lr = 0.001000 | Cost after iteration 1000: 34.693247
+lr = 0.001000 | Cost after iteration 0: 610.473827
+lr = 0.001000 | Cost after iteration 200: 262.748876
+lr = 0.001000 | Cost after iteration 400: 124.550108
+lr = 0.001000 | Cost after iteration 600: 62.795497
+lr = 0.001000 | Cost after iteration 800: 34.974728
+lr = 0.001000 | Cost after iteration 1000: 22.450006
+lr = 0.000100 | Cost after iteration 0: 610.473827
+lr = 0.000100 | Cost after iteration 200: 565.381851
+lr = 0.000100 | Cost after iteration 400: 523.756512
+lr = 0.000100 | Cost after iteration 600: 485.331297
+lr = 0.000100 | Cost after iteration 800: 449.860184
+lr = 0.000100 | Cost after iteration 1000: 417.273353
+lr = 0.000100 | Cost after iteration 0: 610.473827
+lr = 0.000100 | Cost after iteration 200: 554.425457
+lr = 0.000100 | Cost after iteration 400: 505.807840
+lr = 0.000100 | Cost after iteration 600: 463.086848
+lr = 0.000100 | Cost after iteration 800: 425.142929
+lr = 0.000100 | Cost after iteration 1000: 391.309119
+
+Minimum Cost for Horsepower Only Model: 23.943662938603108
+Best Learning Rate for Horsepower Only Model: 0.1
+lr = 0.100000 | Cost after iteration 0: 610.473827
+lr = 0.100000 | Cost after iteration 200: 23.943663
+lr = 0.100000 | Cost after iteration 400: 23.943663
+lr = 0.100000 | Cost after iteration 600: 23.943663
+lr = 0.100000 | Cost after iteration 800: 23.943663
+lr = 0.100000 | Cost after iteration 1000: 23.943663
+w = [[-6.07562688]], b = 23.44591836734693
+
+
+Minimum Cost for All Features Model: 10.847481499970433
+Best Learning Rate for All Features Model: 0.1
+lr = 0.100000 | Cost after iteration 0: 610.473827
+lr = 0.100000 | Cost after iteration 200: 10.880921
+lr = 0.100000 | Cost after iteration 400: 10.849336
+lr = 0.100000 | Cost after iteration 600: 10.847602
+lr = 0.100000 | Cost after iteration 800: 10.847489
+lr = 0.100000 | Cost after iteration 1000: 10.847481
+w = [[-0.6518016 ]
+ [-0.83976308]
+ [ 2.07852947]
+ [-5.49827114]
+ [ 0.22221673]
+ [ 2.76561046]
+ [ 1.14850055]], b = 23.445918367346934
+
